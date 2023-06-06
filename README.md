@@ -4,11 +4,11 @@ a windows/mac application that uses LLM to continuously rewrite its own code and
 
 intended to be used as a test target for modern anti virus applications
 
-relies on XCloudPlatform for gathering relevant datasets (crypto wallet withdrawal/captcha screenshots, AI for screenshot understanding, AI for keyboard/mouse automation)
+relies on [XCloudPlatform](https://github.com/xcloudplatform)[X](https://github.com/Kyiv2023/XCP) for gathering relevant datasets (crypto wallet withdrawal/captcha screenshots, AI for screenshot understanding, AI for keyboard/mouse automation)
 
 ## Plug-ins
 
-### HumanLog
+### [HumanLog](https://github.com/xcloudplatform/HumanLogger)
 
 logs human activity remotely leveraging XCloudPlatform
 
