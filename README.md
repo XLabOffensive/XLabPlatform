@@ -22,7 +22,7 @@ The XLabPlatform project aims to answer or address the following questions and p
 
  - LLM powered cross platform self modifying virus
 
-
+# README
 
 a windows/mac application that uses LLM to continuously rewrite its own code and to orchestrate execution of its multiple instances in p2p fashion
 
